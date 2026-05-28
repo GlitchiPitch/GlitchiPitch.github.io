@@ -1,24 +1,28 @@
 {
   "files": {
     "main.css": "/static/css/main.e6c13ad2.css",
-    "main.js": "/static/js/main.7975e8f4.js",
+    "main.js": "/static/js/main.53fe56a6.js",
     "static/media/mapWindowBackground.png": "/static/media/mapWindowBackground.01d859188335f2042f74.png",
     "static/media/mapIcon.png": "/static/media/mapIcon.42716d3bc4522397b874.png",
     "static/media/deliveryIcon.png": "/static/media/deliveryIcon.d6addadbcf3007d6c3e3.png",
     "static/media/coinIcon.png": "/static/media/coinIcon.df78cd6af886b339db1d.png",
     "static/media/controlIcon.png": "/static/media/controlIcon.4725837c9ef737c642e0.png",
     "static/media/hpIcon.png": "/static/media/hpIcon.e24b29347ce0783e90c5.png",
+    "static/media/testObstacle.png": "/static/media/testObstacle.aa5428c432601acb2417.png",
     "static/media/startScreenBackground.png": "/static/media/startScreenBackground.4f788cbd51af6fecdc88.png",
     "static/media/clockIcon.png": "/static/media/clockIcon.fc5ffbe7217a8f6a938e.png",
     "static/media/speedIcon.png": "/static/media/speedIcon.2e217c49ce3456f92930.png",
     "static/media/claudi.png": "/static/media/claudi.95db353405833b57c193.png",
     "static/media/ufo.png": "/static/media/ufo.265b337d786f975d57f1.png",
+    "static/media/levelTimerIcon.png": "/static/media/levelTimerIcon.a094d129420d421c99fc.png",
     "static/media/vulk.png": "/static/media/vulk.141bacfc877f277728da.png",
     "static/media/eddy.png": "/static/media/eddy.94804a655e6fb960feef.png",
     "static/media/tuchi.png": "/static/media/tuchi.f80fec8789cafbd65694.png",
     "static/media/commonBackground.png": "/static/media/commonBackground.b687f725a724da5cee9f.png",
+    "static/media/rewardsWindowBackground.png": "/static/media/rewardsWindowBackground.eff3977192ebe145c545.png",
     "static/media/vall.png": "/static/media/vall.a4044601945a19216430.png",
     "static/media/rewardsIcon.png": "/static/media/rewardsIcon.00f32fdbfe52fc6216d0.png",
+    "static/media/finishFlagIcon.png": "/static/media/finishFlagIcon.d0d9f9b410e92e72ff9c.png",
     "static/media/skillValueBarBackground.png": "/static/media/skillValueBarBackground.5f1823a646e8583c99f3.png",
     "static/media/skillValueScale.png": "/static/media/skillValueScale.b8776f40c756bb46dd11.png",
     "static/media/actionButtonBackground.png": "/static/media/actionButtonBackground.701eb184a2d15550f9ea.png",
@@ -28,10 +32,10 @@
     "static/media/defaultDeliveryNotificationBackground.png": "/static/media/defaultDeliveryNotificationBackground.39db2d9bc0db5d60a6d7.png",
     "index.html": "/index.html",
     "main.e6c13ad2.css.map": "/static/css/main.e6c13ad2.css.map",
-    "main.7975e8f4.js.map": "/static/js/main.7975e8f4.js.map"
+    "main.53fe56a6.js.map": "/static/js/main.53fe56a6.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.7975e8f4.js"
+    "static/js/main.53fe56a6.js"
   ]
 }
