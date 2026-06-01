@@ -1,11 +1,12 @@
 {
   "files": {
     "main.css": "/static/css/main.e6c13ad2.css",
-    "main.js": "/static/js/main.53fe56a6.js",
+    "main.js": "/static/js/main.0eafcb2b.js",
     "static/media/mapWindowBackground.png": "/static/media/mapWindowBackground.01d859188335f2042f74.png",
     "static/media/mapIcon.png": "/static/media/mapIcon.42716d3bc4522397b874.png",
     "static/media/deliveryIcon.png": "/static/media/deliveryIcon.d6addadbcf3007d6c3e3.png",
     "static/media/coinIcon.png": "/static/media/coinIcon.df78cd6af886b339db1d.png",
+    "static/media/sol.png": "/static/media/sol.93a2dedb6b07873bec4f.png",
     "static/media/controlIcon.png": "/static/media/controlIcon.4725837c9ef737c642e0.png",
     "static/media/hpIcon.png": "/static/media/hpIcon.e24b29347ce0783e90c5.png",
     "static/media/testObstacle.png": "/static/media/testObstacle.aa5428c432601acb2417.png",
@@ -14,6 +15,7 @@
     "static/media/speedIcon.png": "/static/media/speedIcon.2e217c49ce3456f92930.png",
     "static/media/claudi.png": "/static/media/claudi.95db353405833b57c193.png",
     "static/media/ufo.png": "/static/media/ufo.265b337d786f975d57f1.png",
+    "static/media/villi.png": "/static/media/villi.9eceb98029d7545eeb3e.png",
     "static/media/levelTimerIcon.png": "/static/media/levelTimerIcon.a094d129420d421c99fc.png",
     "static/media/vulk.png": "/static/media/vulk.141bacfc877f277728da.png",
     "static/media/eddy.png": "/static/media/eddy.94804a655e6fb960feef.png",
@@ -24,7 +26,17 @@
     "static/media/rewardsIcon.png": "/static/media/rewardsIcon.00f32fdbfe52fc6216d0.png",
     "static/media/finishFlagIcon.png": "/static/media/finishFlagIcon.d0d9f9b410e92e72ff9c.png",
     "static/media/skillValueBarBackground.png": "/static/media/skillValueBarBackground.5f1823a646e8583c99f3.png",
+    "static/media/mona.png": "/static/media/mona.09839f887ca5df3b93aa.png",
+    "static/media/swami.png": "/static/media/swami.a66e1990477fadc8a271.png",
+    "static/media/yeti.png": "/static/media/yeti.37ac3b2d89c583b754aa.png",
+    "static/media/serj.png": "/static/media/serj.f64912b0c52e6141c411.png",
+    "static/media/drakochi.png": "/static/media/drakochi.6dde367d559ad3686495.png",
     "static/media/skillValueScale.png": "/static/media/skillValueScale.b8776f40c756bb46dd11.png",
+    "static/media/ghostHouse.png": "/static/media/ghostHouse.644da4cb6dac1b33c88e.png",
+    "static/media/roza.png": "/static/media/roza.6aabab689c5ca9f6c754.png",
+    "static/media/captainDuck.png": "/static/media/captainDuck.bb0f0f3e7e7df003a0d1.png",
+    "static/media/moonMu.png": "/static/media/moonMu.3b11523180da32bf68d0.png",
+    "static/media/factor.png": "/static/media/factor.b4705ac1e7ce7d52341a.png",
     "static/media/actionButtonBackground.png": "/static/media/actionButtonBackground.701eb184a2d15550f9ea.png",
     "static/media/startScreenTextContainer.png": "/static/media/startScreenTextContainer.2d88063584165b64c4ad.png",
     "static/media/rewardCardBackground_special.png": "/static/media/rewardCardBackground_special.4e485fff1442e8d7b33e.png",
@@ -32,10 +44,10 @@
     "static/media/defaultDeliveryNotificationBackground.png": "/static/media/defaultDeliveryNotificationBackground.39db2d9bc0db5d60a6d7.png",
     "index.html": "/index.html",
     "main.e6c13ad2.css.map": "/static/css/main.e6c13ad2.css.map",
-    "main.53fe56a6.js.map": "/static/js/main.53fe56a6.js.map"
+    "main.0eafcb2b.js.map": "/static/js/main.0eafcb2b.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.53fe56a6.js"
+    "static/js/main.0eafcb2b.js"
   ]
 }
