@@ -1,0 +1,38 @@
+<svg width="4096" height="279" viewBox="0 0 4096 279" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<g id="sol">
+<g id="obstacles">
+<rect id="static" x="241.50016" y="246.41536" width="11.14112" height="11.14112" fill="#FF0000"/>
+<rect id="static_2" x="390.92224" y="31.29344" width="11.14112" height="11.14112" fill="#FF0000"/>
+<rect id="static_3" x="506.75712" y="25.55904" width="11.14112" height="11.14112" fill="#FF0000"/>
+<rect id="static_4" x="472.35072" y="141.55776" width="11.14112" height="11.14112" fill="#FF0000"/>
+<rect id="static_5" x="648.8064" y="232.6528" width="11.14112" height="11.14112" fill="#FF0000"/>
+<rect id="static_6" x="654.86848" y="127.13984" width="11.14112" height="11.14112" fill="#FF0000"/>
+<rect id="static_7" x="882.2784" y="34.4064" width="11.14112" height="11.14112" fill="#FF0000"/>
+<rect id="static_8" x="1079.7056" y="137.95328" width="11.14112" height="11.14112" fill="#FF0000"/>
+<rect id="static_9" x="976.32256" y="218.23488" width="11.14112" height="11.14112" fill="#FF0000"/>
+<rect id="static_10" x="1228.8" y="19.98848" width="11.14112" height="11.14112" fill="#FF0000"/>
+<rect id="static_11" x="1500.44672" y="229.376" width="11.14112" height="11.14112" fill="#FF0000"/>
+<rect id="static_12" x="1580.56448" y="19.98848" width="11.14112" height="11.14112" fill="#FF0000"/>
+<rect id="static_13" x="1675.264" y="134.18496" width="11.14112" height="11.14112" fill="#FF0000"/>
+<rect id="static_14" x="1520.10752" y="83.23072" width="11.14112" height="11.14112" fill="#FF0000"/>
+<rect id="static_15" x="1826.32448" y="38.5024" width="11.14112" height="11.14112" fill="#FF0000"/>
+<rect id="static_16" x="1954.11968" y="223.80544" width="11.14112" height="11.14112" fill="#FF0000"/>
+<rect id="static_17" x="1766.03136" y="250.83904" width="11.14112" height="11.14112" fill="#FF0000"/>
+<rect id="static_18" x="2006.05696" y="49.64352" width="11.14112" height="11.14112" fill="#FF0000"/>
+<rect id="static_19" x="2161.0496" y="212.66432" width="11.14112" height="11.14112" fill="#FF0000"/>
+<rect id="static_20" x="2207.08864" y="55.21408" width="11.14112" height="11.14112" fill="#FF0000"/>
+<rect id="static_21" x="2057.66656" y="139.75552" width="11.14112" height="11.14112" fill="#FF0000"/>
+<rect id="static_22" x="2269.51168" y="133.69344" width="11.14112" height="11.14112" fill="#FF0000"/>
+<rect id="static_23" x="1918.23872" y="104.52992" width="11.14112" height="11.14112" fill="#FF0000"/>
+<rect id="static_24" x="2478.73536" y="42.92608" width="11.14112" height="11.14112" fill="#FF0000"/>
+<rect id="static_25" x="2484.30592" y="229.376" width="11.14112" height="11.14112" fill="#FF0000"/>
+<rect id="static_26" x="2691.23584" y="115.67104" width="11.14112" height="11.14112" fill="#FF0000"/>
+<rect id="static_27" x="3020.22656" y="32.44032" width="11.14112" height="11.14112" fill="#FF0000"/>
+<rect id="static_28" x="3123.28192" y="115.67104" width="11.14112" height="11.14112" fill="#FF0000"/>
+<rect id="static_29" x="2945.18784" y="243.95776" width="11.14112" height="11.14112" fill="#FF0000"/>
+<rect id="static_30" x="3358.72" y="243.95776" width="11.14112" height="11.14112" fill="#FF0000"/>
+<rect id="static_31" x="3512.40192" y="164.82304" width="11.14112" height="11.14112" fill="#FF0000"/>
+<rect id="static_32" x="3292.3648" y="35.88096" width="11.14112" height="11.14112" fill="#FF0000"/>
+</g>
+</g>
+</svg>

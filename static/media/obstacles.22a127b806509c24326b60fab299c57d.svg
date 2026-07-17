@@ -1,0 +1,32 @@
+<svg width="4096" height="279" viewBox="0 0 4096 279" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<g id="yeti">
+<g id="obstacles">
+<rect id="static" x="220.20096" y="154.66496" width="11.14112" height="11.14112" fill="#FF0000"/>
+<rect id="static_2" x="500.36736" y="228.72064" width="11.14112" height="11.14112" fill="#FF0000"/>
+<rect id="static_3" x="574.58688" y="40.96" width="11.14112" height="11.14112" fill="#FF0000"/>
+<rect id="static_4" x="781.84448" y="110.10048" width="11.14112" height="11.14112" fill="#FF0000"/>
+<rect id="static_5" x="899.97312" y="26.70592" width="11.14112" height="11.14112" fill="#FF0000"/>
+<rect id="static_6" x="1089.20832" y="100.7616" width="11.14112" height="11.14112" fill="#FF0000"/>
+<rect id="static_7" x="1201.7664" y="246.08768" width="11.14112" height="11.14112" fill="#FF0000"/>
+<rect id="static_8" x="1526.1696" y="38.66624" width="11.14112" height="11.14112" fill="#FF0000"/>
+<rect id="static_9" x="1346.27328" y="37.35552" width="11.14112" height="11.14112" fill="#FF0000"/>
+<rect id="static_10" x="1798.47168" y="40.30464" width="11.14112" height="11.14112" fill="#FF0000"/>
+<rect id="static_11" x="1875.64032" y="235.60192" width="11.14112" height="11.14112" fill="#FF0000"/>
+<rect id="static_12" x="1998.19264" y="113.0496" width="11.14112" height="11.14112" fill="#FF0000"/>
+<rect id="static_13" x="2117.95968" y="37.35552" width="11.14112" height="11.14112" fill="#FF0000"/>
+<rect id="static_14" x="2158.26432" y="249.20064" width="11.14112" height="11.14112" fill="#FF0000"/>
+<rect id="static_15" x="2063.23712" y="202.3424" width="11.14112" height="11.14112" fill="#FF0000"/>
+<rect id="static_16" x="2325.21728" y="208.40448" width="11.14112" height="11.14112" fill="#FF0000"/>
+<rect id="static_17" x="2214.2976" y="131.23584" width="11.14112" height="11.14112" fill="#FF0000"/>
+<rect id="static_18" x="2452.02944" y="57.01632" width="11.14112" height="11.14112" fill="#FF0000"/>
+<rect id="static_19" x="2648.4736" y="203.81696" width="11.14112" height="11.14112" fill="#FF0000"/>
+<rect id="static_20" x="2745.79456" y="35.88096" width="11.14112" height="11.14112" fill="#FF0000"/>
+<rect id="static_21" x="3194.22464" y="48.98816" width="11.14112" height="11.14112" fill="#FF0000"/>
+<rect id="static_22" x="3482.91072" y="223.15008" width="11.14112" height="11.14112" fill="#FF0000"/>
+<rect id="static_23" x="3647.8976" y="32.44032" width="11.14112" height="11.14112" fill="#FF0000"/>
+<rect id="static_24" x="3368.05888" y="127.7952" width="11.14112" height="11.14112" fill="#FF0000"/>
+<rect id="static_25" x="2954.8544" y="229.21216" width="11.14112" height="11.14112" fill="#FF0000"/>
+<rect id="static_26" x="3517.80864" y="132.38272" width="11.14112" height="11.14112" fill="#FF0000"/>
+</g>
+</g>
+</svg>
