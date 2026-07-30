@@ -1,0 +1,15 @@
+<svg width="100" height="58" viewBox="0 0 100 58" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Figma ticket_count_text (104:25131) — Shnobel 51.056; CSS stroke + drop-shadow -->
+  <text
+    fill="#FFFFFF"
+    stroke="#4D3C82"
+    stroke-width="14"
+    stroke-linejoin="round"
+    paint-order="stroke fill"
+    font-family="Shnobel"
+    font-size="51.056"
+    text-anchor="middle"
+  >
+    <tspan x="50" y="45">2</tspan>
+  </text>
+</svg>

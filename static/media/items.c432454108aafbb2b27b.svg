@@ -1,0 +1,64 @@
+<svg width="25000" height="1700" viewBox="0 0 25000 1700" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="Rulers Svami" clip-path="url(#clip0_171_36587)">
+<rect width="25000" height="1700" fill="white"/>
+<g id="interact">
+<rect id="start_point" x="153" y="796" width="68" height="68" fill="#D9D9D9"/>
+<rect id="finish_point" x="23062" y="-1" width="41" height="1702" fill="#D9D9D9"/>
+<path id="finish_courier_place_point" d="M23801 1124H23869V1192H23801V1124Z" fill="#D9D9D9"/>
+</g>
+<g id="boosters">
+<rect id="shield" x="1286" y="1245" width="68" height="68" fill="#3C00FF"/>
+<rect id="shield_2" x="2956" y="409" width="68" height="68" fill="#3C00FF"/>
+<rect id="shield_3" x="7304" y="296" width="68" height="68" fill="#3C00FF"/>
+<rect id="shield_4" x="12936" y="352" width="68" height="68" fill="#3C00FF"/>
+<rect id="shield_5" x="16216" y="1155" width="68" height="68" fill="#3C00FF"/>
+<rect id="shield_6" x="20014" y="111" width="68" height="68" fill="#3C00FF"/>
+</g>
+<g id="obstacles">
+<rect id="static" x="1190" y="352" width="68" height="68" fill="#FF0000"/>
+<rect id="static_2" x="2343" y="1216" width="68" height="68" fill="#FF0000"/>
+<rect id="static_3" x="3703" y="228" width="68" height="68" fill="#FF0000"/>
+<rect id="static_4" x="3873" y="1537" width="68" height="68" fill="#FF0000"/>
+<rect id="static_5" x="4481" y="393" width="68" height="68" fill="#FF0000"/>
+<rect id="static_6" x="4447" y="1284" width="68" height="68" fill="#FF0000"/>
+<rect id="static_7" x="5960" y="776" width="68" height="68" fill="#FF0000"/>
+<rect id="static_8" x="6594" y="766" width="68" height="68" fill="#FF0000"/>
+<rect id="static_9" x="8141" y="274" width="68" height="68" fill="#FF0000"/>
+<rect id="static_10" x="9221" y="1125" width="68" height="68" fill="#FF0000"/>
+<rect id="static_11" x="7532" y="1486" width="68" height="68" fill="#FF0000"/>
+<rect id="static_12" x="8888" y="249" width="68" height="68" fill="#FF0000"/>
+<rect id="static_13" x="10290" y="713" width="68" height="68" fill="#FF0000"/>
+<rect id="static_14" x="10831" y="206" width="68" height="68" fill="#FF0000"/>
+<rect id="static_15" x="11524" y="1338" width="68" height="68" fill="#FF0000"/>
+<rect id="static_16" x="12202" y="252" width="68" height="68" fill="#FF0000"/>
+<rect id="static_17" x="10763" y="1248" width="68" height="68" fill="#FF0000"/>
+<rect id="static_18" x="11524" y="679" width="68" height="68" fill="#FF0000"/>
+<rect id="static_19" x="12902" y="1130" width="68" height="68" fill="#FF0000"/>
+<rect id="static_20" x="13499" y="164" width="68" height="68" fill="#FF0000"/>
+<rect id="static_21" x="14281" y="1071" width="68" height="68" fill="#FF0000"/>
+<rect id="static_22" x="14281" y="215" width="68" height="68" fill="#FF0000"/>
+<rect id="static_23" x="13499" y="1476" width="68" height="68" fill="#FF0000"/>
+<rect id="static_24" x="12236" y="1532" width="68" height="68" fill="#FF0000"/>
+<rect id="static_25" x="15504" y="593" width="68" height="68" fill="#FF0000"/>
+<rect id="static_26" x="17342" y="172" width="68" height="68" fill="#FF0000"/>
+<rect id="static_27" x="18274" y="902" width="68" height="68" fill="#FF0000"/>
+<rect id="static_28" x="19030" y="747" width="68" height="68" fill="#FF0000"/>
+<rect id="static_29" x="20014" y="452" width="68" height="68" fill="#FF0000"/>
+<rect id="static_30" x="20960" y="798" width="68" height="68" fill="#FF0000"/>
+<rect id="static_31" x="21904" y="1095" width="68" height="68" fill="#FF0000"/>
+<rect id="static_32" x="20109" y="1488" width="68" height="68" fill="#FF0000"/>
+<rect id="static_33" x="16695" y="1392" width="68" height="68" fill="#FF0000"/>
+</g>
+<g id="route_collectible">
+<rect id="small" x="4904" y="1476" width="68" height="68" fill="#09FF00"/>
+<rect id="small_2" x="9757" y="308" width="68" height="68" fill="#09FF00"/>
+<rect id="small_3" x="12270" y="1111" width="68" height="68" fill="#09FF00"/>
+<rect id="small_4" x="18887" y="172" width="68" height="68" fill="#09FF00"/>
+</g>
+</g>
+<defs>
+<clipPath id="clip0_171_36587">
+<rect width="25000" height="1700" fill="white"/>
+</clipPath>
+</defs>
+</svg>

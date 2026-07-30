@@ -1,0 +1,63 @@
+<svg width="25000" height="1700" viewBox="0 0 25000 1700" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="Willy" clip-path="url(#clip0_45_413)">
+<g id="interact">
+<rect id="start_point" x="153" y="796" width="68" height="68" fill="#D9D9D9"/>
+<rect id="finish_point" x="23062" y="-1" width="41" height="1702" fill="#D9D9D9"/>
+<rect id="finish_courier_place_point" x="23801" y="955" width="68" height="68" fill="#D9D9D9"/>
+</g>
+<g id="boosters">
+<rect id="shield" x="6744" y="172" width="68" height="68" fill="#3C00FF"/>
+<rect id="speed" x="1930" y="615" width="68" height="68" fill="#3C00FF"/>
+<rect id="shield_2" x="9897" y="816" width="68" height="68" fill="#3C00FF"/>
+<rect id="speed_2" x="15210" y="382" width="68" height="68" fill="#3C00FF"/>
+<rect id="speed_3" x="12251" y="1199" width="68" height="68" fill="#3C00FF"/>
+<rect id="shield_3" x="18372" y="314" width="68" height="68" fill="#3C00FF"/>
+</g>
+<g id="obstacles">
+<rect id="static" x="1414" y="986" width="68" height="68" fill="#FF0000"/>
+<rect id="static_2" x="2793" y="291" width="68" height="68" fill="#FF0000"/>
+<rect id="static_3" x="3432" y="822" width="68" height="68" fill="#FF0000"/>
+<rect id="static_4" x="4504" y="1226" width="68" height="68" fill="#FF0000"/>
+<rect id="static_5" x="2245" y="1421" width="68" height="68" fill="#FF0000"/>
+<rect id="static_6" x="5702" y="676" width="68" height="68" fill="#FF0000"/>
+<rect id="static_7" x="4965" y="193" width="68" height="68" fill="#FF0000"/>
+<rect id="static_8" x="7659" y="491" width="68" height="68" fill="#FF0000"/>
+<rect id="static_9" x="9806" y="328" width="68" height="68" fill="#FF0000"/>
+<rect id="static_10" x="9182" y="803" width="68" height="68" fill="#FF0000"/>
+<rect id="static_11" x="11672" y="1231" width="68" height="68" fill="#FF0000"/>
+<rect id="static_12" x="14272" y="1484" width="68" height="68" fill="#FF0000"/>
+<rect id="static_13" x="12544" y="265" width="68" height="68" fill="#FF0000"/>
+<rect id="static_14" x="13662" y="348" width="68" height="68" fill="#FF0000"/>
+<rect id="static_15" x="13783" y="1286" width="68" height="68" fill="#FF0000"/>
+<rect id="static_16" x="14142" y="205" width="68" height="68" fill="#FF0000"/>
+<rect id="static_17" x="12911" y="946" width="68" height="68" fill="#FF0000"/>
+<rect id="static_18" x="11126" y="163" width="68" height="68" fill="#FF0000"/>
+<rect id="static_19" x="10573" y="1300" width="68" height="68" fill="#FF0000"/>
+<rect id="static_20" x="12597" y="1464" width="68" height="68" fill="#FF0000"/>
+<rect id="static_21" x="15763" y="732" width="68" height="68" fill="#FF0000"/>
+<rect id="static_22" x="14646" y="863" width="68" height="68" fill="#FF0000"/>
+<rect id="static_23" x="16757" y="325" width="68" height="68" fill="#FF0000"/>
+<rect id="static_24" x="17861" y="1291" width="68" height="68" fill="#FF0000"/>
+<rect id="static_25" x="19372" y="1190" width="68" height="68" fill="#FF0000"/>
+<rect id="static_26" x="18081" y="800" width="68" height="68" fill="#FF0000"/>
+<rect id="static_27" x="20796" y="387" width="68" height="68" fill="#FF0000"/>
+<rect id="static_28" x="21871" y="210" width="68" height="68" fill="#FF0000"/>
+<rect id="static_29" x="21434" y="1323" width="68" height="68" fill="#FF0000"/>
+<rect id="static_30" x="19115" y="78" width="68" height="68" fill="#FF0000"/>
+<rect id="static_31" x="6721" y="1201" width="68" height="68" fill="#FF0000"/>
+</g>
+<g id="route_collectible">
+<rect id="small" x="9512" y="1238" width="68" height="68" fill="#09FF00"/>
+<rect id="small_2" x="1628" y="187" width="68" height="68" fill="#09FF00"/>
+<rect id="small_3" x="5219" y="1411" width="68" height="68" fill="#09FF00"/>
+<rect id="small_4" x="11524" y="585" width="68" height="68" fill="#09FF00"/>
+<rect id="small_5" x="17005" y="1333" width="68" height="68" fill="#09FF00"/>
+<rect id="small_6" x="20334" y="837" width="68" height="68" fill="#09FF00"/>
+</g>
+</g>
+<defs>
+<clipPath id="clip0_45_413">
+<rect width="25000" height="1700" fill="white"/>
+</clipPath>
+</defs>
+</svg>
