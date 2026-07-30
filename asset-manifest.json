@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "./static/css/main.bc2dcbf0.css",
-    "main.js": "./static/js/main.5c5c525f.js",
+    "main.css": "./static/css/main.46b50fd0.css",
+    "main.js": "./static/js/main.22d9a790.js",
     "static/media/background.png": "./static/media/background.95facbd16783f5cb6226.png",
     "static/media/svami_land.png": "./static/media/svami_land.3b0b55018b448927c82a.png",
     "static/media/roza_land.png": "./static/media/roza_land.315c34bcc7dd4e2746ca.png",
@@ -159,11 +159,11 @@
     "static/media/change_rating_coeff_text.svg": "./static/media/change_rating_coeff_text.765a4daacab136a45abe.svg",
     "static/media/page_index_text.svg": "./static/media/page_index_text.05c10aebd102f755cffe.svg",
     "static/media/title_background.svg": "./static/media/title_background.545cae58fa102ad49881f00fdbe837fc.svg",
-    "main.bc2dcbf0.css.map": "./static/css/main.bc2dcbf0.css.map",
-    "main.5c5c525f.js.map": "./static/js/main.5c5c525f.js.map"
+    "main.46b50fd0.css.map": "./static/css/main.46b50fd0.css.map",
+    "main.22d9a790.js.map": "./static/js/main.22d9a790.js.map"
   },
   "entrypoints": [
-    "static/css/main.bc2dcbf0.css",
-    "static/js/main.5c5c525f.js"
+    "static/css/main.46b50fd0.css",
+    "static/js/main.22d9a790.js"
   ]
 }
