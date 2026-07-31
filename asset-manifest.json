@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "./static/css/main.0120926a.css",
-    "main.js": "./static/js/main.85f00596.js",
+    "main.css": "./static/css/main.7e1948d7.css",
+    "main.js": "./static/js/main.55610672.js",
     "static/media/background.png": "./static/media/background.95facbd16783f5cb6226.png",
     "static/media/foreground.png": "./static/media/foreground.0b1188ba2d2610e0f63a.png",
     "static/media/decor_loading.png": "./static/media/decor_loading.6f838d02ab75a899cd98.png",
@@ -58,6 +58,7 @@
     "static/media/rating_value_text.svg": "./static/media/rating_value_text.9d3dba918e4ae7ef270fae223b9414aa.svg",
     "static/media/rating_plate.png": "./static/media/rating_plate.78756a3360ac0b1ddc2f.png",
     "static/media/tuchi.png": "./static/media/tuchi.a5143e3b0e69cb28b1bc.png",
+    "static/media/static.png": "./static/media/static.d0b1184a554832e4d340.png",
     "static/media/character.png": "./static/media/character.2e74df70eabd7d44de56.png",
     "static/media/Shnobel-Regular.woff2": "./static/media/Shnobel-Regular.496b292761050a0832b9.woff2",
     "static/media/pause_text.svg": "./static/media/pause_text.808b2282b113eb77607b6581cb5e2a26.svg",
@@ -116,11 +117,11 @@
     "static/media/ticket_badge.svg": "./static/media/ticket_badge.8ba1ffc814eb8e7d2ac6e151e4323116.svg",
     "static/media/speed_clue_text.svg": "./static/media/speed_clue_text.443cd7f93f5f8e90ad85d16409e0f2d9.svg",
     "static/media/8.png": "./static/media/8.7819812d0d99119b5304.png",
-    "static/media/restart_text.png": "./static/media/restart_text.54a9e51e51e8106ef889.png",
     "static/media/20.png": "./static/media/20.5c26e8185f1abda240a9.png",
     "static/media/test_level_name.png": "./static/media/test_level_name.e52b0b008d87e87dedf1.png",
     "static/media/33.png": "./static/media/33.1ea628269a7317e8f9bc.png",
     "static/media/stat_scale_bar.svg": "./static/media/stat_scale_bar.04eb2f5dfdf83321cb1f51114c7b1e95.svg",
+    "static/media/restart_text.png": "./static/media/restart_text.54a9e51e51e8106ef889.png",
     "static/media/6.png": "./static/media/6.059f702ee7e7db78bfa4.png",
     "static/media/collectible_clue_text.svg": "./static/media/collectible_clue_text.5bb9a03920b62e39e2a36207e84e2795.svg",
     "static/media/30.png": "./static/media/30.9cd97f2a1b454a76e60b.png",
@@ -152,11 +153,11 @@
     "static/media/cloud.svg": "./static/media/cloud.739645c1e3bd0fc5995d008707b97866.svg",
     "index.html": "./index.html",
     "static/media/title_background.svg": "./static/media/title_background.545cae58fa102ad49881f00fdbe837fc.svg",
-    "main.0120926a.css.map": "./static/css/main.0120926a.css.map",
-    "main.85f00596.js.map": "./static/js/main.85f00596.js.map"
+    "main.7e1948d7.css.map": "./static/css/main.7e1948d7.css.map",
+    "main.55610672.js.map": "./static/js/main.55610672.js.map"
   },
   "entrypoints": [
-    "static/css/main.0120926a.css",
-    "static/js/main.85f00596.js"
+    "static/css/main.7e1948d7.css",
+    "static/js/main.55610672.js"
   ]
 }
