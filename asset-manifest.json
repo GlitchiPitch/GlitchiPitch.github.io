@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "./static/css/main.e3f3c6af.css",
-    "main.js": "./static/js/main.148954db.js",
+    "main.css": "./static/css/main.0fe6da52.css",
+    "main.js": "./static/js/main.247850ad.js",
     "static/media/14.png": "./static/media/14.da03f87f37709cb43587.png",
     "static/media/6.png": "./static/media/6.ab683d41078c5937523c.png",
     "static/media/8.png": "./static/media/8.d0fb0749ca1b9ab172b2.png",
@@ -20,7 +20,7 @@
     "static/media/43.png": "./static/media/43.fff7677d617a869d6304.png",
     "static/media/16.png": "./static/media/16.c9dda8b136395dd7e745.png",
     "static/media/42.png": "./static/media/42.530e0a9a7a236c36cf12.png",
-    "static/media/7.png": "./static/media/7.382705650605229390a6.png",
+    "static/media/7.png": "./static/media/7.059f702ee7e7db78bfa4.png",
     "static/media/33.png": "./static/media/33.2f834b6ea804e0cb371c.png",
     "static/media/39.png": "./static/media/39.6b777201027f106d1edc.png",
     "static/media/32.png": "./static/media/32.4d76d7344bc52818b9e4.png",
@@ -121,6 +121,7 @@
     "static/media/eddy.png": "./static/media/eddy.5fd6b68fc6e2e3cd0411.png",
     "static/media/claudi_tidy.png": "./static/media/claudi_tidy.16a0210dbe6133f17194.png",
     "static/media/claudi_nimble.png": "./static/media/claudi_nimble.9eae20e077a9b8aa769a.png",
+    "static/media/Matias.woff2": "./static/media/Matias.fad6e64affd8d989b413.woff2",
     "static/media/header_text.png": "./static/media/header_text.10531cc3f61bb7c51095.png",
     "static/media/hide_delivery_item_image.png": "./static/media/hide_delivery_item_image.13dc510a4d3b1e2926b1.png",
     "static/media/roza.png": "./static/media/roza.4379a9392759afb3a98a.png",
@@ -155,7 +156,6 @@
     "static/media/collectible_clue_text.svg": "./static/media/collectible_clue_text.5bb9a03920b62e39e2a36207e84e2795.svg",
     "static/media/bad_mood.png": "./static/media/bad_mood.6e3bd5ba74a30a300b5f.png",
     "static/media/background2.png": "./static/media/background2.dffb80e940591d7b4fff.png",
-    "static/media/Matias.woff2": "./static/media/Matias.0f90679d1bcda47daf12.woff2",
     "static/media/opened_delivery_item_background.png": "./static/media/opened_delivery_item_background.c4de58c5ecb5eadb6367.png",
     "static/media/icon.png": "./static/media/icon.0b1e4c2bb639338f4ae7.png",
     "static/media/continue_text.png": "./static/media/continue_text.352b3b3fb25e9bdde2ee.png",
@@ -180,11 +180,11 @@
     "static/media/cloud.svg": "./static/media/cloud.739645c1e3bd0fc5995d008707b97866.svg",
     "index.html": "./index.html",
     "static/media/title_background.svg": "./static/media/title_background.545cae58fa102ad49881f00fdbe837fc.svg",
-    "main.e3f3c6af.css.map": "./static/css/main.e3f3c6af.css.map",
-    "main.148954db.js.map": "./static/js/main.148954db.js.map"
+    "main.0fe6da52.css.map": "./static/css/main.0fe6da52.css.map",
+    "main.247850ad.js.map": "./static/js/main.247850ad.js.map"
   },
   "entrypoints": [
-    "static/css/main.e3f3c6af.css",
-    "static/js/main.148954db.js"
+    "static/css/main.0fe6da52.css",
+    "static/js/main.247850ad.js"
   ]
 }
