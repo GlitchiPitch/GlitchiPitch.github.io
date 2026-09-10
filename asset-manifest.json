@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "./static/css/main.37aed4f1.css",
-    "main.js": "./static/js/main.e2877bc9.js",
+    "main.css": "./static/css/main.2f7146ee.css",
+    "main.js": "./static/js/main.9a1be73e.js",
     "static/media/14.png": "./static/media/14.da03f87f37709cb43587.png",
     "static/media/6.png": "./static/media/6.ab683d41078c5937523c.png",
     "static/media/foam.png": "./static/media/foam.80c29aa1badc26256460.png",
@@ -87,6 +87,7 @@
     "static/media/single_shine.png": "./static/media/single_shine.7c38d1d9ac8a7e4966d7.png",
     "static/media/drakochi_land.png": "./static/media/drakochi_land.c2d763642cfc4a187583.png",
     "static/media/shield_booster_shine.png": "./static/media/shield_booster_shine.6b425afb14286de807e1.png",
+    "static/media/screen_header_background.png": "./static/media/screen_header_background.e6e99d850f4643676196.png",
     "static/media/collectible_text.svg": "./static/media/collectible_text.0499a2808b8342e32d5c6eae8a02edab.svg",
     "static/media/header_line_2.svg": "./static/media/header_line_2.14762b1f251bca9270b9cc4e8b523d55.svg",
     "static/media/ufo.png": "./static/media/ufo.6610397d848a8c6f7f60.png",
@@ -96,7 +97,7 @@
     "static/media/what_inside_text.svg": "./static/media/what_inside_text.fb7141e850ff5bd48e6b04ba8a39471f.svg",
     "static/media/decor_label.svg": "./static/media/decor_label.3eae0e9e1804638b19f9230bd8f42aca.svg",
     "static/media/beams.png": "./static/media/beams.b63659758703404a5d22.png",
-    "static/media/screen_header_background.png": "./static/media/screen_header_background.a5344a98ba1c2ac90396.png",
+    "static/media/screen_header_background_mobile.png": "./static/media/screen_header_background_mobile.a5344a98ba1c2ac90396.png",
     "static/media/body_text.svg": "./static/media/body_text.c8540374ced6dcdf53379eab99dbb329.svg",
     "static/media/agility_text.svg": "./static/media/agility_text.1ca024f8e12b12dd957c82f35f9cf3b7.svg",
     "static/media/m_4.png": "./static/media/m_4.691bd4ed8d417ef09199.png",
@@ -220,11 +221,11 @@
     "static/media/cloud.svg": "./static/media/cloud.739645c1e3bd0fc5995d008707b97866.svg",
     "index.html": "./index.html",
     "static/media/title_background.svg": "./static/media/title_background.545cae58fa102ad49881f00fdbe837fc.svg",
-    "main.37aed4f1.css.map": "./static/css/main.37aed4f1.css.map",
-    "main.e2877bc9.js.map": "./static/js/main.e2877bc9.js.map"
+    "main.2f7146ee.css.map": "./static/css/main.2f7146ee.css.map",
+    "main.9a1be73e.js.map": "./static/js/main.9a1be73e.js.map"
   },
   "entrypoints": [
-    "static/css/main.37aed4f1.css",
-    "static/js/main.e2877bc9.js"
+    "static/css/main.2f7146ee.css",
+    "static/js/main.9a1be73e.js"
   ]
 }
